@@ -41,6 +41,9 @@ p{
 .header-area{
     padding:100px 0;
 }
+.header-area h1{
+    font-size: 60px;
+}
 .header-area p{
     margin-bottom: 40px;
     font-size: 18px;
