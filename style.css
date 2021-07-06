@@ -11,6 +11,10 @@ h1{
 h2{
     font-size: 30px;
 }
+p{
+    color: #816f6f;
+    line-height: 1.4;
+}
 .coral-color{
     color:coral
 }
@@ -114,9 +118,6 @@ h2{
     border: 1px solid #d3c4c4;
     border-radius: 10px;
 }
-.service-area p{
-    color: #816f6f;
-}
 
 /* team area  */
 .team-area{
@@ -147,9 +148,7 @@ footer{
     background-color: #0B0D17;
     text-align: center;
 }
-footer p{
-    color:#fff;
-}
+
 .network-color{
     color:#7e77aa;
 }
